@@ -1,4 +1,4 @@
-#TinderLike
+TinderLike
 A Tinder-like dating app using the MVVM architecture.
 
 Features:
