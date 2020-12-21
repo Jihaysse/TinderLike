@@ -1,9 +1,9 @@
-A Tinder-like dating app using the MVVM architecture.
+**A Tinder-like dating app using the MVVM architecture**
 
-Features:
+**Features**:
 - Swiping functionality
 - Card view
--Like/Dislike users
+- Like/Dislike users
 - Matching users
 - Upload upto 3 photos
 - Changing photos
@@ -12,8 +12,12 @@ Features:
 - Age filtering
 
 
-What needs to be done:
+**To-Do list**:
 - Messaging functionality
 - Superlike
 - Gender filter
 - In-app purchases
+
+**Screenshots**
+
+
